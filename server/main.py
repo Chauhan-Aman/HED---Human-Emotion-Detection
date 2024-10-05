@@ -7,6 +7,7 @@ app = FastAPI(project_name="Emotions Detection")
 
 origins = [
     "http://127.0.0.1:5500",
+    "https://hed-human-emotion-detection.vercel.app",
 ]
 
 app.add_middleware(
