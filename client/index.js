@@ -37,7 +37,7 @@ function initImageUpload(box) {
         let formData = new FormData();
         formData.append('im', file);
 
-        fetch('http://127.0.0.1:8000/detect/', {
+        fetch('https://hed-human-emotion-detection.onrender.com/detect/', {
             method: 'POST',
             body: formData,
             headers: {
