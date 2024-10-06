@@ -28,7 +28,7 @@ https://github.com/user-attachments/assets/dcc6dcd3-8b7f-42a0-a28c-f58b081197f7
 
 1. Clone the repository:
 ```
-git clone https://github.com/your-repo/human-emotion-detection.git
+git clone https://github.com/Chauhan-Aman/HED---Human-Emotion-Detection.git
 cd human-emotion-detection
 ```
 2. Set up a virtual environment:
